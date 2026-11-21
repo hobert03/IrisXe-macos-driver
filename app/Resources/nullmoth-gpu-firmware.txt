@@ -854,3 +854,5 @@ d13ff9fb95c6cea40213fa69e5a3465529f00bb67c0984d62343c6e31808fb9e amdnpu/1502_00/
 #link amdnpu/17f0_10/npu_7.sbin -> npu.sbin.1.1.2.64
 #link amdnpu/17f0_11/npu.sbin -> npu.sbin.1.0.0.166
 #link amdnpu/17f0_11/npu_7.sbin -> npu.sbin.1.1.2.65
+d14624ee687b56b7d4234ffda3edeb9aa63f130ed7f6ae288aa381e53c6a35de  i915/rkl_dmc_ver2_02.bin
+f1c4bd51946134b9be9a1e3e6397ef5a8906fb1521a92b02c1b0e1bc3144ba23  i915/rkl_dmc_ver2_03.bin
